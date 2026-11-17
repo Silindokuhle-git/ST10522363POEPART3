@@ -1,5 +1,5 @@
 # ST10522363POEPART3
-# QuickChat -- Java Messaging Application
+# QuickChat Java Messaging Application
 
 ## Overview
 
